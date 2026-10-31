@@ -1,10 +1,8 @@
-# Hi there, I'm Akiieez! 👋
+### 👨‍💻 Software Engineer | Software Developer
 
-### 👨‍💻 Software & Web Developer | Full-Stack Enthusiast
+I am a **Software Engineer** specializing in web and mobile application development, with a strong track record of building internal enterprise platforms, managing relational database architectures, and implementing efficient version control workflows.
 
-Saya adalah lulusan Ilmu Komputer (IPK 3.60) dari Universitas Trunojoyo Madura yang berfokus pada pengembangan aplikasi web *full-stack* dan *mobile*. Memiliki pengalaman langsung dalam membangun platform internal perusahaan, mengelola *database* relasional, dan mengimplementasikan alur kerja *version control* yang efisien.
-
-Saat ini saya bekerja sebagai **Frontend Developer** di PT Matahari Putra Prima, Tbk., dan memiliki rekam jejak dalam membangun aplikasi menggunakan Node.js, Next.js, PHP, dan Python.
+Currently, I am dedicated to my role as a **Frontend Developer** at PT Matahari Putra Prima, Tbk. I have hands-on experience utilizing Node.js, Next.js, PHP, and Python to architect scalable, high-performance software solutions that drive business operations.
 
 ---
 
@@ -32,30 +30,30 @@ Saat ini saya bekerja sebagai **Frontend Developer** di PT Matahari Putra Prima,
 
 ---
 
-### 💼 Pengalaman Kerja Utama
+### 💼 Professional Experience
 
-**Frontend Developer** @ PT Matahari Putra Prima, Tbk. *(Jun 2026 - Sekarang)*
-- Mengembangkan dan mengoptimalkan UI untuk platform internal perusahaan (pulse.hypermart.co.id) dan aplikasi Android (TMS Mobile App).
-- Membangun komponen UI yang responsif dan interaktif untuk mendukung operasional bisnis.
+**Frontend Developer** @ PT Matahari Putra Prima, Tbk. *(Jun 2026 - Present)*
+- Developed and optimized user interfaces for the company's internal web platform (pulse.hypermart.co.id) and Android application (TMS Mobile App).
+- Built responsive, interactive, and user-friendly UI components to support business operations and digital needs.
 
 **Backend Functional Developer** @ PT Usaha Utama Bersaudara *(Feb 2025 - Jun 2026)*
-- Mengembangkan core aplikasi web operasional dan RESTful APIs menggunakan PHP (Laravel).
-- Mengimplementasikan query database kompleks dan logika bisnis untuk modul inventaris serta logistik.
+- Developed and maintained core operational web applications and RESTful APIs using PHP (Laravel).
+- Implemented complex database queries and backend workflows to support inventory modules, stock movement reports, and logistics management systems.
 
 ---
 
-### 📌 Proyek Unggulan
+### 📌 Featured Projects
 
-*   **[SIAKAD Universitas Gresik](link_repo_jika_ada)** - *Fullstack*
-    Platform akademik end-to-end menggunakan Next.js 15, TypeScript, dan PostgreSQL. Berhasil melakukan migrasi arsitektur dari Supabase ke *self-hosted* PostgreSQL via Docker untuk kontrol data yang lebih baik.
-*   **[Pulse Hypermart](link_repo_jika_ada)** - *Frontend*
-    Membangun antarmuka web modern menggunakan React 18, Vite, dan TypeScript. Terintegrasi dengan peta geospasial interaktif (React-Leaflet).
-*   **[Lawang Agung](link_repo_jika_ada)** - *Backend*
-    Aplikasi web dan RESTful API menggunakan Laravel 8 dengan optimasi query MySQL untuk alur kerja inventaris dan logistik.
-*   **[TMS Mobile App](link_repo_jika_ada)** - *Mobile*
-    Pengembangan UI aplikasi Transportasi Management System menggunakan Flutter, Dart, GoRouter, dan Provider.
+*   **[SIAKAD Universitas Gresik](link_repo_jika_ada)** - *Full-Stack Project*
+    Developed an end-to-end academic platform using Next.js 15, TypeScript, and PostgreSQL. Migrated architecture from Supabase to a self-hosted PostgreSQL instance via Docker to gain full control over data integrity and security.
+*   **[Pulse Hypermart](link_repo_jika_ada)** - *Frontend Project*
+    Built and maintained modern web interfaces using React 18, Vite, and TypeScript. Integrated interactive geospatial maps with react-leaflet for real-time facility tracking.
+*   **[Lawang Agung](link_repo_jika_ada)** - *Backend Project*
+    Developed web applications and RESTful APIs using Laravel 8 with optimized MySQL queries for inventory and logistics workflows.
+*   **[TMS Mobile App](link_repo_jika_ada)** - *Mobile Project*
+    Developed the User Interface for a Transportation Management System Application using Flutter, Dart, GoRouter, and Provider.
 
-*(Catatan: Jangan lupa ganti `link_repo_jika_ada` dengan tautan repositori GitHub kamu yang sebenarnya jika sudah di-publish).*
+*(Note: Replace `link_repo_jika_ada` with your actual GitHub repository links if they are public).*
 
 ---
 
@@ -68,7 +66,7 @@ Saat ini saya bekerja sebagai **Frontend Developer** di PT Matahari Putra Prima,
 
 ---
 
-### 📫 Mari Terhubung!
+### 📫 Connect with Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syafrumubarok)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syafrumubarok@gmail.com)
