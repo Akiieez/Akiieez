@@ -44,31 +44,29 @@ Currently, I am dedicated to my role as a **Frontend Developer** at PT Matahari 
 
 ### 📌 Featured Projects
 
-*   **[SIAKAD Universitas Gresik](link_repo_jika_ada)** - *Full-Stack Project*
+*   **SIAKAD Universitas Gresik** - *Full-Stack Project*
     Developed an end-to-end academic platform using Next.js 15, TypeScript, and PostgreSQL. Migrated architecture from Supabase to a self-hosted PostgreSQL instance via Docker to gain full control over data integrity and security.
-*   **[Pulse Hypermart](link_repo_jika_ada)** - *Frontend Project*
+*   **Pulse Hypermart** - *Frontend Project*
     Built and maintained modern web interfaces using React 18, Vite, and TypeScript. Integrated interactive geospatial maps with react-leaflet for real-time facility tracking.
-*   **[Lawang Agung](link_repo_jika_ada)** - *Backend Project*
+*   **Lawang Agung** - *Backend Project*
     Developed web applications and RESTful APIs using Laravel 8 with optimized MySQL queries for inventory and logistics workflows.
-*   **[TMS Mobile App](link_repo_jika_ada)** - *Mobile Project*
+*   **TMS Mobile App** - *Mobile Project*
     Developed the User Interface for a Transportation Management System Application using Flutter, Dart, GoRouter, and Provider.
-
-*(Note: Replace `link_repo_jika_ada` with your actual GitHub repository links if they are public).*
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akiieez&show_icons=true&theme=radical&hide_border=true" alt="Akiieez's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiieez&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akiieez&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Akiieez's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiieez&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with Me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syafrumubarok)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syafrurmubarokh/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syafrumubarok@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akiieez)
 
