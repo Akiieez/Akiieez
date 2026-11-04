@@ -32,7 +32,7 @@ Currently, I am dedicated to my role as a **Frontend Developer** at PT Matahari 
 
 ### 💼 Professional Experience
 
-**Frontend Developer** @ PT Matahari Putra Prima, Tbk. *(Jun 2026 - Present)*
+**Fullstack Developer** @ PT Matahari Putra Prima, Tbk. *(Jun 2026 - Present)*
 - Developed and optimized user interfaces for the company's internal web platform (pulse.hypermart.co.id) and Android application (TMS Mobile App).
 - Built responsive, interactive, and user-friendly UI components to support business operations and digital needs.
 
