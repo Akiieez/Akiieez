@@ -2,7 +2,7 @@
 
 I am a **Software Engineer** specializing in web and mobile application development, with a strong track record of building internal enterprise platforms, managing relational database architectures, and implementing efficient version control workflows.
 
-Currently, I am dedicated to my role as a **Frontend Developer** at PT Matahari Putra Prima, Tbk. I have hands-on experience utilizing Node.js, Next.js, PHP, and Python to architect scalable, high-performance software solutions that drive business operations.
+Currently, I am dedicated to my role as a **Software Developer** at PT Matahari Putra Prima, Tbk. I have hands-on experience utilizing Node.js, Next.js, PHP, and Python to architect scalable, high-performance software solutions that drive business operations.
 
 ---
 
